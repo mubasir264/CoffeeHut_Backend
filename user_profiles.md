@@ -1,5 +1,6 @@
 # James' Coffee Hut
-
+# Loyal customers
+* loyal customers could accumulate loyalty points converted into the currency they could use in their next purchase at coffee_Hut site. 
 ## Daily Purchasers
 These users make purchases on a daily basis.
 
