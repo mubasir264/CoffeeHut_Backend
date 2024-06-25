@@ -3,7 +3,8 @@
 James' Coffee Hut offers a variety of payment options to ensure a seamless and convenient shopping experience for our customers. Below are the available payment methods:
 
 ## Coffeehut Wallet
-Use the Coffeehut Wallet for quick and easy payments. Load money into your wallet and enjoy faster checkouts and also special discounts
+- Use the Coffeehut Wallet for quick and easy payments. Load money into your wallet and enjoy faster checkouts and also special discounts
+- Coffeehut wallet, a new option where his loyal customers could accumulate loyalty points converted into the currency they could use in their next purchase at coffee_Hut site.
 
 ## Credit Card
 We accept all major credit cards, including:
